@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 loans:
-  message: "Welcome to the Loans Microservice related to production environment"
+  message: "Welcome to the Loans Microservice related to prod environment"
   contactDetails:
     name: "Dat Mai - Product Owner"
     email: "datmai-dummy-po@gmail.com"
