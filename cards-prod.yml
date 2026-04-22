@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "Welcome to the Cards Microservice related to Prod environment"
+  message: "Welcome to the Cards Microservice related to production environment"
   contactDetails:
     name: "Dat Mai - Product Owner"
     email: "datmai-dummy-po@gmail.com"
