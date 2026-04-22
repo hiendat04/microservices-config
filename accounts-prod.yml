@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to the Accounts Microservice related to production environment"
+  message: "Welcome to the Accounts Microservice related to prod environment"
   contactDetails:
     name: "Dat Mai - Product Owner"
     email: "{cipher}8258467416539ba7cc11abeacc84c49b355eb64638cfa593f21c130780b29e7b8e99839c10d637d1b4520410eb450126"
