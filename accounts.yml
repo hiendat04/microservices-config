@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to the local docker1 Microservice"
+  message: "Welcome to the local accounts microservice"
   contactDetails:
     name: "Dat Mai"
     email: "datmai-dummy@gmail.com"
