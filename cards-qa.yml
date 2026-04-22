@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+cards:
+  message: "Welcome to the Accounts Microservice related to QA environment"
+  contactDetails:
+    name: "Dat Mai - QA Lead"
+    email: "datmai-dummy-qa@gmail.com"
+  onCallSupport:
+    - (444) 123-4567
+    - (444) 987-6543

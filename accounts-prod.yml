@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to the Accounts Microservice related to Prod environment"
+  contactDetails:
+    name: "Dat Mai - Product Owner"
+    email: "datmai-dummy-prod@gmail.com"
+  onCallSupport:
+    - (666) 123-4567
+    - (666) 987-6543

@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+loans:
+  message: "Welcome to the local Loans Microservice"
+  contactDetails:
+    name: "Dat Mai"
+    email: "datmai-dummy@gmail.com"
+  onCallSupport:
+    - (616) 123-4567
+    - (616) 987-6543
